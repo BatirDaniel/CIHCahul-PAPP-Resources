@@ -1,13 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
-using System.Runtime.ConstrainedExecution;
-using System.Text;
-using System.Threading.Tasks;
 using Varianta_1.Models.Entities;
-using Varianta_1.Pages;
 
 namespace Varianta_1.Models
 {
@@ -44,26 +38,9 @@ namespace Varianta_1.Models
             var clients = new ObservableCollection<Client>(Clienti.ToList());
             return clients;
         }
-        public Client? GetClientById(string id)
+        public Client? GetClientById(int id)
         {
             return Clienti.FirstOrDefault(p => p.CodClient == id);
-        }
-        public void AddClient(Client client)
-        {
-            Clienti.Add(client);
-            SaveChanges();
-        }
-
-        public void UpdateClient(Client client)
-        {
-            Clienti.Update(client);
-            SaveChanges();
-        }
-
-        public void DeleteClient(Client client)
-        {
-            Clienti.Remove(client);
-            SaveChanges();
         }
 
         //Handling order data
@@ -73,26 +50,9 @@ namespace Varianta_1.Models
             return comenzi;
         }
 
-        public Comanda? GetComandaById(string id)
+        public Comanda? GetComandaById(int id)
         {
             return Comenzi.FirstOrDefault(p => p.CodComanda == id);
-        }
-        public void AddComanda(Comanda comanda)
-        {
-            Comenzi.Add(comanda);
-            SaveChanges();
-        }
-
-        public void UpdateClient(Comanda comanda)
-        {
-            Comenzi.Update(comanda);
-            SaveChanges();
-        }
-
-        public void DeleteClient(Comanda comanda)
-        {
-            Comenzi.Remove(comanda);
-            SaveChanges();
         }
     }
 }

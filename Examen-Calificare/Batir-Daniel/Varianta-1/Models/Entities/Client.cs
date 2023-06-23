@@ -10,8 +10,7 @@ namespace Varianta_1.Models.Entities
     public class Client
     {
         [Key]
-        [MaxLength(150)]
-        public string? CodClient { get; set; }
+        public int? CodClient { get; set; }
 
         [MaxLength(50)]
         public string? Nume { get; set; }

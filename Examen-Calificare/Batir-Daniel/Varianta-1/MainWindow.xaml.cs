@@ -18,12 +18,14 @@ using Varianta_1.Models;
 
 namespace Varianta_1
 {
-    public partial class MainWindow : Window
+    public partial class MainWindow
     {
-        OnlineShopDbContext _context;
+        public OnlineShopDbContext _context;
         public MainWindow()
         {
             InitializeComponent();
+
+            _context = new OnlineShopDbContext();
             _context.Database.EnsureCreated();
         }
 

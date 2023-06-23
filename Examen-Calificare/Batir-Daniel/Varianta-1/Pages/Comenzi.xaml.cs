@@ -12,6 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Varianta_1.Models;
+using Varianta_1.ViewModels.Comanda;
+using Varianta_1.Windows;
 
 namespace Varianta_1.Pages
 {
@@ -20,9 +23,28 @@ namespace Varianta_1.Pages
     /// </summary>
     public partial class Comenzi : Page
     {
+        private ComandaWindow comandaWindow;
+        private OnlineShopDbContext _context;
+        private ComandaViewModel model;
         public Comenzi()
         {
             InitializeComponent();
+            comandaWindow = new ComandaWindow();
+            _context = new OnlineShopDbContext();
+            model = new ComandaViewModel();
+
+            comenziDataGrid.ItemsSource = _context.GetOrders();
+            DataContext = model;
+        }
+
+        private void addOrder_Click(object sender, RoutedEventArgs e)
+        {
+            comandaWindow.ShowDialog();
+        }
+
+        private void Button_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            comenziDataGrid.ItemsSource = _context.GetOrders();
         }
     }
 }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Lab215-Station1\Desktop\Batir-Daniel\Varianta-1\obj\Debug\net6.0-windows\
+C:\Users\crme031\Desktop\CIH-Cahul\Examen-Calificare\Batir-Daniel\Varianta-1\obj\Debug\net6.0-windows\
 Varianta_1
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Lab215-Station1\Desktop\Batir-Daniel\Varianta-1\App.xaml
-14135309135
+C:\Users\crme031\Desktop\CIH-Cahul\Examen-Calificare\Batir-Daniel\Varianta-1\App.xaml
+141564647398
 
-141356860549
-210-306097208
-Assets\FontAwesomeResources.xaml;Assets\Icons.xaml;Controls\MenuItem.xaml;Controls\UserPopup.xaml;MainWindow.xaml;Pages\Clienti.xaml;Pages\Comenzi.xaml;Pages\Dashboard.xaml;Styles\ClientStyle.xaml;Styles\ComandaStyle.xaml;Styles\MainStyle.xaml;Themes\DarkTheme.xaml;Window\ClientWindow.xaml;Window\ComandaWindow.xaml;
+17-451109726
+2121013706996
+Assets\FontAwesomeResources.xaml;Assets\Icons.xaml;Controls\MenuItem.xaml;Controls\UserPopup.xaml;MainWindow.xaml;Pages\Clienti.xaml;Pages\Comenzi.xaml;Pages\Dashboard.xaml;Styles\ClientStyle.xaml;Styles\ComandaStyle.xaml;Styles\MainStyle.xaml;Themes\DarkTheme.xaml;Windows\ClientWindow.xaml;Windows\ComandaWindow.xaml;
 
-True
+False
 

@@ -22,10 +22,10 @@
     <Compile Update="Pages\Dashboard.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Window\ClientWindow.xaml.cs">
+    <Compile Update="Windows\ClientWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Window\ComandaWindow.xaml.cs">
+    <Compile Update="Windows\ComandaWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -66,10 +66,10 @@
     <Page Update="Themes\DarkTheme.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Window\ClientWindow.xaml">
+    <Page Update="Windows\ClientWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Window\ComandaWindow.xaml">
+    <Page Update="Windows\ComandaWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

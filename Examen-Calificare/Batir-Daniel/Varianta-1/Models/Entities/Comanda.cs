@@ -11,8 +11,7 @@ namespace Varianta_1.Models.Entities
     public class Comanda
     {
         [Key]
-        [MaxLength(150)]
-        public string? CodComanda { get; set; }
+        public int? CodComanda { get; set; }
 
         public DateTime? DataComanda { get; set; }
 
@@ -20,6 +19,6 @@ namespace Varianta_1.Models.Entities
 
         [ForeignKey("CodClient")]
         public Client? Client { get; set; }
-        public string? CodClient { get; set; }
+        public int? CodClient { get; set; }
     }
 }
