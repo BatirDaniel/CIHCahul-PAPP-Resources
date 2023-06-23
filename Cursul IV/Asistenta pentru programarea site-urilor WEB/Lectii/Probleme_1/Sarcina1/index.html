@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarcina 1</title>
+    <style>
+        body{
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        form{
+            background-color: green;
+            width: 350px;
+            height: 300px;
+        }
+        .formular{
+            margin-top: 20vh;
+            border-radius: 5px;
+        }
+        .formular > div{
+            padding: 20px;
+            text-align: left;
+        }
+        span{
+            font-size: 20px;
+            font-weight: bold;
+        }
+        #latime , #lungime{
+            font-size: 20px;
+            width: 280px;
+            height: 30px;
+        }
+
+        .formular > #calc{
+            background-color: black;
+            color: white;
+            height: 40px;
+            width: 150px;
+            border-radius: 15px;
+            margin-left: 90px;
+            margin-top: 20px;
+        }
+        .rezultat{
+            background-color: lightgrey;
+            width: 350px;
+            display: flex;
+            justify-content: center;
+            border-radius: 10px;
+        }
+        #result{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="data-dreptunghi">
+        <form action="from" method="post" class="formular" id="formular">
+            <div class="lungime">
+                <span>Lungime:</span><br>
+                <input type="number" name="lungime" id="lungime">
+            </div>
+            <div class="latime">
+                <span>Latime:</span><br>
+                <input type="number" name="latime" id="latime">
+            </div>
+            <button type="submit" id="calc">Calculeaza</button>
+       </form>
+    </div>
+    <div class="rezultat" id="rezultat"></div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.exe
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.deps.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.runtimeconfig.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.runtimeconfig.dev.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.dll
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.pdb
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.dll
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.pdb
+C:\Users\Professional\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.genruntimeconfig.cache
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.exe
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.deps.json
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.runtimeconfig.json
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.runtimeconfig.dev.json
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.dll
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_6.Interfete\bin\Debug\netcoreapp3.1\Tema_6.Interfete.pdb
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.csprojAssemblyReference.cache
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.AssemblyInfoInputs.cache
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.AssemblyInfo.cs
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.dll
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_6.Interfete\obj\Debug\netcoreapp3.1\Tema_6.Interfete.pdb

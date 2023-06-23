@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AHdN3KqacCa/0PKC7qtEie9xz5XXiCUHyn54fVmQ3vOWySsSmrltmHxtreuxs/ngkJKwO92wsZK9FB3p0EIsOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Professional\\Desktop\\Laboratorul_1\\Sarcina_5\\Sarcina_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Professional\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Professional\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Professional\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

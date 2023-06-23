@@ -1,0 +1,16 @@
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\bin\Debug\net6.0-windows\BiletulNR_18.exe
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\bin\Debug\net6.0-windows\BiletulNR_18.deps.json
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\bin\Debug\net6.0-windows\BiletulNR_18.runtimeconfig.json
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\bin\Debug\net6.0-windows\BiletulNR_18.dll
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\bin\Debug\net6.0-windows\ref\BiletulNR_18.dll
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\bin\Debug\net6.0-windows\BiletulNR_18.pdb
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\obj\Debug\net6.0-windows\BiletulNR_18.Form1.resources
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\obj\Debug\net6.0-windows\BiletulNR_18.csproj.GenerateResource.cache
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\obj\Debug\net6.0-windows\BiletulNR_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\obj\Debug\net6.0-windows\BiletulNR_18.AssemblyInfoInputs.cache
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\obj\Debug\net6.0-windows\BiletulNR_18.AssemblyInfo.cs
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\obj\Debug\net6.0-windows\BiletulNR_18.csproj.CoreCompileInputs.cache
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\obj\Debug\net6.0-windows\BiletulNR_18.dll
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\obj\Debug\net6.0-windows\ref\BiletulNR_18.dll
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\obj\Debug\net6.0-windows\BiletulNR_18.pdb
+C:\Users\Lab215-Station1\Desktop\Examen\BiletulNR_18\obj\Debug\net6.0-windows\BiletulNR_18.genruntimeconfig.cache

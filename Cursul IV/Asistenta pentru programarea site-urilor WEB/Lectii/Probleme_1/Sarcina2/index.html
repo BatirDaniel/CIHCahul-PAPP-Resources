@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarcina 2</title>
+    <style>
+        body{
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: lightgrey;
+        }
+        h2{
+            color: green;
+        }
+        .display-ecuatie{
+            border: 1px solid gray;
+            width: 799px;
+            padding: 50px 0;
+            background-color: white;
+            margin-top: 20vh;
+        }
+        #formular{
+            border: 1px solid gray;
+            padding-top:60px;
+            padding-bottom:60px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+        span{
+            font-size: 25px;
+        }
+        #a,#b,#c{
+            width: 150px;
+            height: 30px;
+            font-size: 20px;
+        }
+        #result{
+            margin-top: 15px;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="display-ecuatie">
+        <h2>Ecuatie de gradul II</h2>
+        <form action="#" method="post" id="formular">
+            <input type="text" name="a" id="a">
+            <span>X2 + </span>
+            <input type="text" name="b" id="b">
+            <span>X + </span>
+            <input type="text" name="c" id="c">
+            <span>= 0 </span>
+        </form>
+        <div style="margin-top:15px;font-size:20px">Solutiile ecuatiei sunt :</div>
+        <div id="result"></div>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

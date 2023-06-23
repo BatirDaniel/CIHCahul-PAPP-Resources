@@ -1,0 +1,13 @@
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\bin\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.exe
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\bin\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.deps.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\bin\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.runtimeconfig.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\bin\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.runtimeconfig.dev.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\bin\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.dll
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\bin\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.pdb
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\obj\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\obj\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\obj\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\obj\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\obj\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.dll
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\obj\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.pdb
+C:\Users\Professional\Desktop\Varianta_5\Tema_1.Lucrul-cu-clasele\obj\Debug\netcoreapp3.1\Tema_1.Lucrul-cu-clasele.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\bin\Debug\net5.0\Sarcina_1.exe
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\bin\Debug\net5.0\Sarcina_1.deps.json
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\bin\Debug\net5.0\Sarcina_1.runtimeconfig.json
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\bin\Debug\net5.0\Sarcina_1.runtimeconfig.dev.json
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\bin\Debug\net5.0\Sarcina_1.dll
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\bin\Debug\net5.0\ref\Sarcina_1.dll
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\bin\Debug\net5.0\Sarcina_1.pdb
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\obj\Debug\net5.0\Sarcina_1.csproj.AssemblyReference.cache
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\obj\Debug\net5.0\Sarcina_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\obj\Debug\net5.0\Sarcina_1.AssemblyInfoInputs.cache
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\obj\Debug\net5.0\Sarcina_1.AssemblyInfo.cs
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\obj\Debug\net5.0\Sarcina_1.csproj.CoreCompileInputs.cache
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\obj\Debug\net5.0\Sarcina_1.dll
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\obj\Debug\net5.0\ref\Sarcina_1.dll
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\obj\Debug\net5.0\Sarcina_1.pdb
+C:\Users\Lab215-St14\Desktop\Lectia_5\Sarcina_1\obj\Debug\net5.0\Sarcina_1.genruntimeconfig.cache

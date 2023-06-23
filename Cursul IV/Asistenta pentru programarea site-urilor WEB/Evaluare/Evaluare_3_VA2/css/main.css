@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.container{
+    width: calc(100% - 50px);
+    height: 100%;
+    align-items: center;
+}
+.title{
+    height: 100%;
+    width: calc(100% - 120px);
+    margin-left: 60px;
+    padding: 15px;
+    background: black;
+    color: white;
+}
+.container > .display-data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex: 1 1 33%;
+}
+.data{
+    height: 150px;
+    width: 170px;
+    font-size: 12px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    border-radius: 5px;
+}

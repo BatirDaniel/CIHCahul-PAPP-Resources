@@ -1,0 +1,13 @@
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\bin\Debug\netcoreapp3.1\Sarcina_5.exe
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\bin\Debug\netcoreapp3.1\Sarcina_5.deps.json
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\bin\Debug\netcoreapp3.1\Sarcina_5.runtimeconfig.json
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\bin\Debug\netcoreapp3.1\Sarcina_5.runtimeconfig.dev.json
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\bin\Debug\netcoreapp3.1\Sarcina_5.dll
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\bin\Debug\netcoreapp3.1\Sarcina_5.pdb
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\obj\Debug\netcoreapp3.1\Sarcina_5.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\obj\Debug\netcoreapp3.1\Sarcina_5.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\obj\Debug\netcoreapp3.1\Sarcina_5.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\obj\Debug\netcoreapp3.1\Sarcina_5.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\obj\Debug\netcoreapp3.1\Sarcina_5.dll
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\obj\Debug\netcoreapp3.1\Sarcina_5.pdb
+C:\Users\Professional\Desktop\Laboratorul_1\Sarcina_5\obj\Debug\netcoreapp3.1\Sarcina_5.genruntimeconfig.cache

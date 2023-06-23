@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teorie 14</title>
+    <style>
+        *{
+            box-sizing: border-box;
+        }
+        body{
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        form{
+            width: 400px;
+            padding: 25px;
+            border: 1px solid black;
+            background-color: black;
+            color: white;
+        }
+        .mb-3{
+            margin-bottom: 15px;
+        }
+        .mb-3 > *{
+            width: 100%;
+            padding: 8px 15px;
+        }
+        .btn-login{
+            background-color: white;
+            border-color: white;
+            padding: 8px 15px;
+        }
+        .btn-login:active{
+            transform: scale(0.98);
+        }
+        .error{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <form action="" method="post" id="login-form">
+        <div class="mb-3">
+            <label for="username">Username</label>
+            <input type="text" name="username" id="username">
+            <div class="error" id="error1"></div>
+        </div>
+        <div class="mb-3">
+            <label for="password">Password</label>
+            <input type="text" name="password" id="password">
+        </div>
+        <button type="submit" class="btn-login">Login</button>
+        <div class="error" id="error2"></div>
+    </form>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

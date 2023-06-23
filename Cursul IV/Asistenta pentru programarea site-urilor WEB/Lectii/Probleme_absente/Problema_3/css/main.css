@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h3{
+    font-family:'Segoe UI';
+}
+.container{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+}
+.display{
+    width: 400px;
+    height: 100px;
+    background-color: white;
+    font-size: 30pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0.1px groove rgb(231, 229, 229);
+}
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+}
+.buttons > *{
+    flex: 1 1 calc(30% - 20px);
+    height: 60px;
+    width: 80px;
+    background-color: white;
+    color: black;
+    border: 0.1px groove rgb(231, 229, 229);
+    font-size:11pt;
+}
+.back{
+    background-color: rgb(223, 241, 247);
+}

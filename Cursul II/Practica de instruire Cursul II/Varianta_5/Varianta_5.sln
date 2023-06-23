@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema_1.Lucrul-cu-clasele", "Tema_1.Lucrul-cu-clasele\Tema_1.Lucrul-cu-clasele.csproj", "{79A04188-5CFF-4D0C-A7A2-EC14BD88E0BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema_2.Mostenire", "Tema_2.Mostenire\Tema_2.Mostenire.csproj", "{D68625A1-7AD9-4DD5-A749-BA87F339690E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema_3.Polimorfismul-metodelor-claselor", "Tema_3.Polimorfismul-metodelor-claselor\Tema_3.Polimorfismul-metodelor-claselor.csproj", "{794791A3-1820-47AA-9CD1-A2B7D2F7DE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema_4.Utilizare-fisiere-text", "Tema_4.Utilizare-fisiere-text\Tema_4.Utilizare-fisiere-text.csproj", "{EDBDFEFB-9383-42C4-B3CB-48B37D966FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema_5.Utilizare-fisiere-binare", "Tema_5.Utilizare-fisiere-binare\Tema_5.Utilizare-fisiere-binare.csproj", "{E0A355A3-C441-4C3E-B492-3BDE41FF5EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema_6.Interfete", "Tema_6.Interfete\Tema_6.Interfete.csproj", "{E218D2F2-0F50-4BE6-8991-4C0D6DC8BF40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema_7.Aplicatie-complexa", "Tema_7.Aplicatie-complexa\Tema_7.Aplicatie-complexa.csproj", "{390C744A-7EDE-44CD-B532-84E8DF1B7270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A04188-5CFF-4D0C-A7A2-EC14BD88E0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A04188-5CFF-4D0C-A7A2-EC14BD88E0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A04188-5CFF-4D0C-A7A2-EC14BD88E0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A04188-5CFF-4D0C-A7A2-EC14BD88E0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68625A1-7AD9-4DD5-A749-BA87F339690E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68625A1-7AD9-4DD5-A749-BA87F339690E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68625A1-7AD9-4DD5-A749-BA87F339690E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68625A1-7AD9-4DD5-A749-BA87F339690E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794791A3-1820-47AA-9CD1-A2B7D2F7DE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794791A3-1820-47AA-9CD1-A2B7D2F7DE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794791A3-1820-47AA-9CD1-A2B7D2F7DE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794791A3-1820-47AA-9CD1-A2B7D2F7DE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBDFEFB-9383-42C4-B3CB-48B37D966FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBDFEFB-9383-42C4-B3CB-48B37D966FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBDFEFB-9383-42C4-B3CB-48B37D966FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBDFEFB-9383-42C4-B3CB-48B37D966FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A355A3-C441-4C3E-B492-3BDE41FF5EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A355A3-C441-4C3E-B492-3BDE41FF5EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A355A3-C441-4C3E-B492-3BDE41FF5EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A355A3-C441-4C3E-B492-3BDE41FF5EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E218D2F2-0F50-4BE6-8991-4C0D6DC8BF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E218D2F2-0F50-4BE6-8991-4C0D6DC8BF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E218D2F2-0F50-4BE6-8991-4C0D6DC8BF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E218D2F2-0F50-4BE6-8991-4C0D6DC8BF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{390C744A-7EDE-44CD-B532-84E8DF1B7270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390C744A-7EDE-44CD-B532-84E8DF1B7270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390C744A-7EDE-44CD-B532-84E8DF1B7270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390C744A-7EDE-44CD-B532-84E8DF1B7270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7563410B-75F6-41C0-9438-353B480E5726}
+	EndGlobalSection
+EndGlobal

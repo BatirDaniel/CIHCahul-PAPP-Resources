@@ -1,0 +1,24 @@
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.exe
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.deps.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.runtimeconfig.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.runtimeconfig.dev.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.dll
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.pdb
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.dll
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.pdb
+C:\Users\Professional\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.genruntimeconfig.cache
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.exe
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.deps.json
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.runtimeconfig.json
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.runtimeconfig.dev.json
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.dll
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\bin\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.pdb
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.csprojAssemblyReference.cache
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.AssemblyInfoInputs.cache
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.AssemblyInfo.cs
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.dll
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_7.Aplicatie-complexa\obj\Debug\netcoreapp3.1\Tema_7.Aplicatie-complexa.pdb

@@ -1,0 +1,37 @@
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.exe
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.deps.json
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.runtimeconfig.json
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.runtimeconfig.dev.json
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.dll
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.pdb
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.csprojAssemblyReference.cache
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.AssemblyInfoInputs.cache
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.AssemblyInfo.cs
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.dll
+C:\Users\Statia 15\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.pdb
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.exe
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.deps.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.runtimeconfig.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.runtimeconfig.dev.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.dll
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.pdb
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.dll
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.pdb
+C:\Users\Professional\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.genruntimeconfig.cache
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.exe
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.deps.json
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.runtimeconfig.json
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.runtimeconfig.dev.json
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.dll
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\bin\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.pdb
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.csprojAssemblyReference.cache
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.AssemblyInfoInputs.cache
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.AssemblyInfo.cs
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.csproj.CoreCompileInputs.cache
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.dll
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.pdb
+C:\Users\Station-12\Desktop\Varianta_5\Tema_5.Utilizare-fisiere-binare\obj\Debug\netcoreapp3.1\Tema_5.Utilizare-fisiere-binare.genruntimeconfig.cache

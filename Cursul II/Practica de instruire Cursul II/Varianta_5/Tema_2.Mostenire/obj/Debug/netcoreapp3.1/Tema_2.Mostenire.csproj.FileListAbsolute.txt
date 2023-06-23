@@ -1,0 +1,13 @@
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\bin\Debug\netcoreapp3.1\Tema_2.Mostenire.exe
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\bin\Debug\netcoreapp3.1\Tema_2.Mostenire.deps.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\bin\Debug\netcoreapp3.1\Tema_2.Mostenire.runtimeconfig.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\bin\Debug\netcoreapp3.1\Tema_2.Mostenire.runtimeconfig.dev.json
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\bin\Debug\netcoreapp3.1\Tema_2.Mostenire.dll
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\bin\Debug\netcoreapp3.1\Tema_2.Mostenire.pdb
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\obj\Debug\netcoreapp3.1\Tema_2.Mostenire.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\obj\Debug\netcoreapp3.1\Tema_2.Mostenire.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\obj\Debug\netcoreapp3.1\Tema_2.Mostenire.AssemblyInfo.cs
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\obj\Debug\netcoreapp3.1\Tema_2.Mostenire.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\obj\Debug\netcoreapp3.1\Tema_2.Mostenire.dll
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\obj\Debug\netcoreapp3.1\Tema_2.Mostenire.pdb
+C:\Users\Professional\Desktop\Varianta_5\Tema_2.Mostenire\obj\Debug\netcoreapp3.1\Tema_2.Mostenire.genruntimeconfig.cache

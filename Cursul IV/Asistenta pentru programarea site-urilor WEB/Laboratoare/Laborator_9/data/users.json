@@ -1,0 +1,37 @@
+[
+    {
+        "id"         : "636cd0ec48ce57ab53db8d94",
+        "firstName"  : "Bradley",
+        "lastName"   : "Braun",
+        "email"      : "Lessie.Walker47@yahoo.com",
+        "age"        : 25
+    },
+    {
+        "id"         : "636cd0eced807304fd2cc98b",
+        "firstName"  : "Emmie",
+        "lastName"   : "Klocko",
+        "email"      : "Weston.Moore95@hotmail.com",
+        "age"        : 49
+    },
+    {
+        "id"         : "636cd0ec15d4bcfcac4b3000",
+        "firstName"  : "Jarrett",
+        "lastName"   : "Tromp",
+        "email"      : "Stephany_Rogahn88@yahoo.com",
+        "age"        : 20
+    },
+    {
+        "id"         : "636cd0ece1fe7751537026da",
+        "firstName"  : "Elyssa",
+        "lastName"   : "Stroman",
+        "email"      : "Rosalind48@yahoo.com",
+        "age"        : 30
+    },
+    {
+        "id"         : "636cd0ec134215dcf8f0387c",
+        "firstName"  : "Garfield",
+        "lastName"   : "Lesch",
+        "email"      : "Yesenia.White83@gmail.com",
+        "age"        : 50
+    }
+]

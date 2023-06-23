@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarcina 3</title>
+    <style>
+        body{
+            margin: 0;
+            background-color: white;
+            display: flex;
+            justify-content: center;
+        }
+        .display-numar-norocos{
+            margin-top: 20vh;
+            font-size: 25px;
+            border: 2px solid lightgray;
+            background-color: azure;
+            padding: 30px;
+            width: 710px;
+        }
+        #number{
+            width: 400px;
+            height: 30px;
+        }
+        .btn{
+            width: 130px;
+            height: 35px;
+            margin-top: 7px;
+            background-color: rgb(25, 161, 161);
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        #result{
+            margin-left: 420px;
+        }
+        h5{
+            margin-bottom: -60px;
+        }
+        #result{
+            margin-bottom: -30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="display-numar-norocos">
+        <h2>Numarul norocos</h2>
+        <form action="#" method="post" id="formular">
+            <h5>Indicati numarul DVS norocos</h5>
+            <h4 style="color:red" id="result"></h4><br>
+            <input type="text" name="number" id="number"><br>
+            <button class="btn" type="submit">Determina</button>
+            <h6>Daca un numar se imparte fara rest la data curenta este norocos</h6>
+        </form>
+    </div>
+    
+    <script src="js/main.js"></script>
+</body>
+</html>

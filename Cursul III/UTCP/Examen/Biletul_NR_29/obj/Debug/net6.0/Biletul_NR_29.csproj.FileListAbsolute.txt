@@ -1,0 +1,16 @@
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\bin\Debug\net6.0\date.in
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\bin\Debug\net6.0\Biletul_NR_29.exe
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\bin\Debug\net6.0\Biletul_NR_29.deps.json
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\bin\Debug\net6.0\Biletul_NR_29.runtimeconfig.json
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\bin\Debug\net6.0\Biletul_NR_29.dll
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\bin\Debug\net6.0\ref\Biletul_NR_29.dll
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\bin\Debug\net6.0\Biletul_NR_29.pdb
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\obj\Debug\net6.0\Biletul_NR_29.csproj.AssemblyReference.cache
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\obj\Debug\net6.0\Biletul_NR_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\obj\Debug\net6.0\Biletul_NR_29.AssemblyInfoInputs.cache
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\obj\Debug\net6.0\Biletul_NR_29.AssemblyInfo.cs
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\obj\Debug\net6.0\Biletul_NR_29.csproj.CoreCompileInputs.cache
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\obj\Debug\net6.0\Biletul_NR_29.dll
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\obj\Debug\net6.0\ref\Biletul_NR_29.dll
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\obj\Debug\net6.0\Biletul_NR_29.pdb
+C:\Users\Lab215-St14\Desktop\Examen\Biletul_NR_29\obj\Debug\net6.0\Biletul_NR_29.genruntimeconfig.cache

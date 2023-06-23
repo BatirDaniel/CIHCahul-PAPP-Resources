@@ -1,0 +1,18 @@
+.item > img{
+    height: 450px;
+    object-fit: cover;
+}
+.owl-nav{
+    display: none;
+}
+.owl-dots{
+    position: relative;
+    top: -50px;
+}
+.owl-dot > span{
+    background: transparent!important;
+    border: 2px solid white;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
+    background: white!important;
+}
